@@ -23,3 +23,7 @@ After this, have fun!
 -  **RxJava2** is used together with **Retrofit2** to make API calls;
 - App supports android 16;
 - **MockWebServer** is used for the instrumentation tests, if you don't have the access to run the app, you can see it running through it.
+
+## Demo (Spoiler)
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+![App running](demo.gif)
