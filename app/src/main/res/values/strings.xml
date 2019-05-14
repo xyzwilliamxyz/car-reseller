@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Car Reseller</string>
+
+    <string name="title_manufacturer">Manufacturer</string>
+    <string name="title_main_car_type">Car Type</string>
+    <string name="title_built_date">Built Date</string>
+    <string name="title_summary">Summary</string>
+
+    <string name="summary_car">Car</string>
+
+    <string name="error_message">Something went wrong!</string>
+    <string name="error_retry">Retry</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3753C7</color>
+    <color name="colorPrimaryDark">#2D429B</color>
+    <color name="colorAccent">#F6872D</color>
+
+    <color name="defaultGrayBackground">#F0F0F3</color>
+
+    <color name="noActionBarTitle">#333333</color>
+
+    <color name="separator">#E4E4E4</color>
+
+    <color name="success">#087F23</color>
+</resources>
