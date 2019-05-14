@@ -8,7 +8,7 @@ As a plus, the app is covered by unit and instrumented tests. And last but no le
 ## Before you run this
 When you have downloaded the project, in the app **build.gradle**, replace the following:
 
-**MY_AWESOME_KEY** to your key. Example: *dsadsad-dsadsad-dsadsad-dsadsad*
+**MY_AWESOME_KEY** to your key. Example: *dsadsad-dsadsad-dsadsad-dsadsad*<br/>
 **MY_AWESOME_BASE_URL/v1/** to the service URL. Example: *http://myapi.com/v1/*
 
 Also, in order to run instrumentation tests, you must change the build variant to **instrumentationTest**.
