@@ -28,7 +28,7 @@ class SummaryActivity : AppCompatActivity() {
         tv_manufacturer.text = manufacturer.name
         tv_main_car_type.text = mainCarType.name
         tv_built_date.text = builtDate.date
-        iv_back.setOnClickListener {
+        aib_back.setOnClickListener {
             onSupportNavigateUp()
         }
     }

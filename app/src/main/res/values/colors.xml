@@ -5,6 +5,7 @@
     <color name="colorAccent">#F6872D</color>
 
     <color name="defaultGrayBackground">#F0F0F3</color>
+    <color name="lightGray">#D3D3D3</color>
 
     <color name="noActionBarTitle">#333333</color>
 
