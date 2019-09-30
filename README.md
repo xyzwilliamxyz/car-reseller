@@ -25,5 +25,5 @@ After this, have fun!
 - **MockWebServer** is used for the instrumentation tests, if you don't have the access to run the app, you can see it running through it.
 
 ## Demo
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 ![App running](demo.gif)
